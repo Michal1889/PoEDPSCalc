@@ -11,3 +11,5 @@
 |Shortcut|Description|
 |---	|---	|
 | `ctrl+c` | Check weapon's DPS / Gem Info
+
+Reddit post: https://www.reddit.com/r/pathofexile/comments/h0jhhg/release_ahk_weapon_dps_calculator/
