@@ -3,11 +3,11 @@
 
 #### Usage / Instructions ####
 
-1. Install AHK (http://ahkscript.org).
-2. Download (https://github.com/Michal1889/PoEDPSCalc/releases) and extract the zip-file. 
-3. Run **DPS_Calculator.ahk**.
+1. Install AHK (https://www.autohotkey.com/)
+2. Download (https://github.com/Michal1889/PoEDPSCalc/releases) and extract the zip-file
+3. Run **DPS_Calculator.ahk**
 
 
 |Shortcut|Description|
 |---	|---	|
-| `ctrl+c` | See item info 
+| `ctrl+c` | Check weapon's DPS / Gem Info
