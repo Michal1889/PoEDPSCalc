@@ -1,5 +1,5 @@
 ; This script uses Path of Exile Weapon DPS Calculator 
-; (https://pdejan.github.io/poe_wdps/)
+; (https://pdejan.github.io/poe_wdps/) // updated version https://michal1889.github.io/dpscalc/
 ; This script uses Aeons PoEDisplay.ahk
 ; https://gist.github.com/aeons/7432713
 
@@ -152,7 +152,7 @@ FindItemStats(wb)
 	if WebNav = 0
 	{
 	wb.Visible := False                                ;// Make the IE object visible
-	wb.Navigate("https://pdejan.github.io/poe_wdps/")                   ;// Navigate to a webpage
+	wb.Navigate("https://michal1889.github.io/dpscalc/")                   ;// Navigate to a webpage
 	while wb.busy or wb.ReadyState != 4
 	sleep 10
 	WebNav := 1
